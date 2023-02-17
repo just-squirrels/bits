@@ -1,0 +1,30 @@
+{
+  "name": "@sqrls/bits",
+  "version": "0.1.0",
+  "description": "a collection of random little things that don't fit elsewhere yet",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-squirrels/bits.git"
+  },
+  "keywords": [
+    "bits"
+  ],
+  "author": "just squirrels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just-squirrels/bits/issues"
+  },
+  "homepage": "https://github.com/just-squirrels/bits#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.4.2",
+    "@tsconfig/node18": "^1.0.1",
+    "@types/node": "^18.13.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.5"
+  }
+}
